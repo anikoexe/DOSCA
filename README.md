@@ -18,7 +18,7 @@
   <p><b>Тёмная тема</b></p>
   <img src="docs/screenshots/dark_canvas.png" alt="DOSCA Dark Interface" width="100%" />
   <br><br>
-  <p><b>Светлая инженерная тема</b></p>
+  <p><b>Светлая тема</b></p>
   <img src="docs/screenshots/light_canvas.png" alt="DOSCA Light Interface" width="100%" />
 </div>
 
